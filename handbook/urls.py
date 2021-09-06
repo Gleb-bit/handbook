@@ -28,7 +28,7 @@ router.register('element', ElementViewSet)
 
 schema_view = get_schema_view(
     openapi.Info(
-        title='Blog and projects API',
+        title='Handbook API',
         default_version='v1',
         description='description of app',
         terms_of_service='https://www.google.com/polices/terms/',

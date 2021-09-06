@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'handbook_app.apps.HandbookAppConfig',
     'rest_framework',
     'django_filters',
-
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
